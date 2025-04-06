@@ -1,0 +1,5 @@
+sqlitecloud
+streamlit
+pandas
+altair
+python-dotenv
